@@ -1,0 +1,5 @@
+$(function(){
+    $('.skills').myskillbar({});
+    
+ 
+});//jquery
